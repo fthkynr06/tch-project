@@ -1,4 +1,8 @@
 lsdnfols
 wl;kefw
 fatih nasilsin
+<<<<<<< HEAD
 cakisma olacak
+=======
+deneme remote
+>>>>>>> 08489e957e806ad0db5db70c621c51c3be100aa4
